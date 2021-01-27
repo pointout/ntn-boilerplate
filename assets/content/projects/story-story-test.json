@@ -5,7 +5,7 @@
   "description": "Short descriptive text",
   "body": "Longer **markdown**-*enabled* content text.",
   "gallery": [
-    "/img/fb-profil.jpg",
-    "/img/fb2017-07.jpg"
+    "/img/fb2017-07.jpg",
+    "/img/fb-profil.jpg"
   ]
 }
