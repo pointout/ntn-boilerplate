@@ -3,5 +3,9 @@
   "project_type": "story",
   "title": "Story test",
   "description": "Short descriptive text",
-  "body": "Longer **markdown**-*enabled* content text."
+  "body": "Longer **markdown**-*enabled* content text.",
+  "gallery": [
+    "/img/fb2017-07.jpg",
+    "/img/fb-profil.jpg"
+  ]
 }
